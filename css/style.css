@@ -1,0 +1,322 @@
+.logo 
+{
+    color: #2196F3;
+}
+.logo_url
+{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 26px;
+    line-height: 31px;    
+    letter-spacing: 0.03em;
+    text-decoration: none;
+    color: #212121;
+}
+.nav_link
+{
+    list-style: none;
+}
+.nav_link a
+{
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+color: #212121;
+text-decoration: none;
+
+}
+.nav_contacts
+{
+    
+font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+list-style: none;
+
+}
+.nav_contacts a
+{
+    text-decoration: none;
+    color: #757575;
+}
+.overlay h1
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 44px;
+    line-height: 60px;
+    text-align: center;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+}
+.features_list
+{
+    list-style: none;
+    width: 270px;
+}
+.features_list b
+{
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    
+    color: #212121;
+}
+.features_list p
+{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
+color: #757575;
+}
+
+                                            /*section чем мы занимаемся*/
+.about_us h1
+ {
+    font-family: Roboto;
+   font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    color: #212121;
+    
+}
+.about_us_list
+{
+    width: 370px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    list-style: none;
+}
+                                                                /*section our team*/
+
+.our_team h2
+{
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+letter-spacing: 0.03em;
+color: #212121;
+}
+.our_team li
+{
+    width: 270px;
+}
+.our_team_list li
+{
+    list-style: none;
+}
+.our_team_name
+{
+    font-family: Roboto;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
+}
+.our_team_profession
+{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+letter-spacing: 0.03em;
+color: #757575;
+}
+.our_team_social li
+{
+    list-style: none;
+}
+
+                                                                            /*section our clients*/
+.our_clients h2
+{
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
+}
+.our_clients_list
+{
+    width: 170px;
+    list-style: none;
+}
+
+
+
+
+                                                                    /*footer*/
+
+
+
+.footer
+{
+    background: #2F303A;
+}
+.footer_contacts
+{
+font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 22px;
+line-height: 26px;
+letter-spacing: 0.03em;
+list-style: none;
+color: #ffffff;
+}
+.footer_contacts_list
+{
+    list-style: none;
+}
+.footer_logo
+{
+    color: #2196F3;
+}
+.footer_contacts_adress,.footer_contacts_email,.footer_contacts_phone
+{
+    font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 24px;
+letter-spacing: 0.03em;
+}
+
+.footer_contacts_adress
+{
+    color: #ffffff;
+}
+.footer_contacts_email,.footer_contacts_phone
+{
+    color: rgba(255, 255, 255, 0.6);
+}
+
+.footer_social
+{
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: #ffffff;
+list-style: none;    
+}
+.footer_social_icon li
+{
+    list-style: none;
+}
+.footer_subscription
+{
+    font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+
+color: #FFFFFF;
+list-style: none;
+}
+
+
+
+
+
+
+                                                                    /*Стилізуємо сторінку Портфоліо*/
+
+
+.portfolio_list_item
+{
+    
+    list-style: none;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    letter-spacing: 0.03em;
+    
+
+}
+.portfolio_list_item a
+{
+    text-decoration: none;
+    color: #212121;
+    width: 103px;
+    height: 38px;
+}
+
+
+                                                    /*portfolio proects */
+
+.portfolio_proekts
+{
+    list-style: none;
+}
+.portfolio_proects_list
+{
+    width: 370px;
+}
+.portfolio_proects_name a
+{
+text-decoration: none;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 36px;
+letter-spacing: 0.06em;
+color: #212121;
+}
+.portfolio_proects_type
+{
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+letter-spacing: 0.03em;
+color: #757575;
+}
